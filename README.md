@@ -1,4 +1,4 @@
-# ChatGPT Tools - A Collection of Helpful Tools for Interacting with ChatGPT
+# iPromptAI2 - A Collection of Helpful Tools for Interacting with ChatGPT
 
 This repository contains handy tools to enhance your experience when interacting with ChatGPT:
 

@@ -22,7 +22,7 @@ Finally, the user can copy the appended text from the final box with a single bu
 The tool leverages simple JavaScript functions to dynamically add and remove text boxes, merge the texts, count the words and characters, and copy the final text.
 
 ## Usage
-1. Clone the repository using `git clone https://github.com/decisivedevops/ChatGPT-Tools.git`
+1. Clone the repository using `git clone https://github.com/dedotombo/iPromptAI2.git`
 
 2. Open `Prompt-Appender/Prompt-Appender.html` file in a web browser.
 3. Use the 'Add Text Box' button to create additional text boxes. Enter separate pieces of text in each box.

@@ -27,7 +27,7 @@ The tool uses a simple JavaScript function to split the text into smaller chunks
 2. Each chunk contains a prefix and postfix that instructs the AI on the process of receiving and acknowledging the chunks, and to wait for the completion of chunk transmission before processing subsequent requests.
 
 ## Usage
-1. Clone the repository using `git clone https://github.com/decisivedevops/ChatGPT-Tools.git`
+1. Clone the repository using `git clone https://github.com/dedotombo/iPromptAI2.git`
 
 2. Open `Prompt-Splitter/Prompt-Splitter.html` file in a web browser.
 
